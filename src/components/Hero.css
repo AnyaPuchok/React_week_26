@@ -1,0 +1,29 @@
+.heading {
+    font-size: 80px;
+    color: rgb(24, 88, 4);
+}
+
+.card {
+    margin: 50px;
+    padding: 20px;
+    background-color: rgb(184, 233, 176);
+}
+
+.card_title {
+    font-size: 45px;
+    font-weight: 500;
+}
+
+span {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.card-item {
+    font-size: 18px;
+    margin: 2px 0;
+}
+
+.picture {
+    margin: 15px 0;
+}
